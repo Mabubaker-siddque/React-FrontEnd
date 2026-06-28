@@ -30,7 +30,6 @@ export const Footer: React.FC = () => {
               <MapPin className="h-6 w-6" />
             </a>
           </div>
-          
         </div>
       </div>
     </footer>
